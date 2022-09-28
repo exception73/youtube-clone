@@ -1,0 +1,25 @@
+.left-section{
+    display: flex;
+    position: fixed;    
+    top: 50px;
+    flex-direction: column;
+    width: 70px;
+    bottom: 0;
+    background-color: white;
+    align-items: center;
+    vertical-align: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.left-section img{
+    margin-top: 10px;
+    height: 25px;
+    width: 25px;
+}
+
+.left-section p{
+    font-size: 10px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}

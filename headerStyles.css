@@ -1,0 +1,45 @@
+
+.header{
+    display: flex;
+    flex-direction: row;
+    border-bottom:1px solid gray;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+.middle-header{
+    display: flex;
+}
+
+.left-header{
+    display: flex;
+}
+
+.right-header{
+    display: flex;
+}
+
+#hamburger{
+    height: 45px;
+    width: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#youtube-logo{
+    height: 50px;
+    width: 120px;
+    display: inline-block;
+}
+
+.middle-header{
+    display: flex;
+    height: 50px;
+    margin-left: 40px;
+}
+
+.middle-header input{
+    display: inline-block;
+}
